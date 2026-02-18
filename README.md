@@ -21,8 +21,8 @@ Create a dashboard and answer the following key business questions to help the c
 -Dashboard Interactions <a href="https://github.com/Navajeevan28/sales-analysis-dashboard/blob/main/Dashboard.png">Dashboard view</a>
 
 ## Process
--Import Orders, Customers, and Products CSV files into Power BI, clean the data, and create relationships (Orders as fact table; Customers and Products as dimension tables).
--Create calculated columns and measures such as Revenue (Quantity × Price), Total Revenue, Average Delivery Time, and Average Order Value.
+- Import Orders, Customers, and Products CSV files into Power BI, clean the data, and create relationships (Orders as fact table; Customers and Products as dimension tables).
+- Create calculated columns and measures such as Revenue (Quantity × Price), Total Revenue, Average Delivery Time, and Average Order Value.
 -Build visuals (cards, line charts, bar charts, scatter plots, matrix) to answer each business question.
 -Apply filters like Year, City, Product, and Occasion to make the dashboard interactive.
 -Analyze patterns from the visuals and derive actionable insights to improve sales strategy and customer satisfaction.
