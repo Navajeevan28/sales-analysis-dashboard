@@ -1,6 +1,6 @@
 # Sales-analysis-dashboard
 ## Project objective
-Built a Sales Analysis Dashboard using Orders, Customers, and Products CSV files. Created a relational data model, cleaned data, calculated revenue, and developed Power BI visuals to analyze sales by product, category, city, occasion, month, and hour for business insights.
+Built a Sales Analysis Dashboard using Orders, Customers, and Products CSV files. Created a relational data model, cleaned data, calculated revenue, and developed Excel visuals to analyze sales by product, category, city, occasion, month, and hour for business insights.
 
 ## Dataset used
 - <a href="https://github.com/Navajeevan28/sales-analysis-dashboard/blob/main/sales%20analysis.xlsx">Dataset</a>
@@ -21,7 +21,7 @@ Create a dashboard and answer the following key business questions to help the c
 -Dashboard Interactions <a href="https://github.com/Navajeevan28/sales-analysis-dashboard/blob/main/Dashboard.png">Dashboard view</a>
 
 ## Process
-- Import Orders, Customers, and Products CSV files into Power BI, clean the data, and create relationships (Orders as fact table; Customers and Products as dimension tables).
+- Import Orders, Customers, and Products CSV files into Excel, clean the data, and create relationships (Orders as fact table; Customers and Products as dimension tables).
 - Create calculated columns and measures such as Revenue (Quantity × Price), Total Revenue, Average Delivery Time, and Average Order Value.
 - Build visuals (cards, line charts, bar charts, scatter plots, matrix) to answer each business question.
 - Apply filters like Year, City, Product, and Occasion to make the dashboard interactive.
